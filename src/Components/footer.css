@@ -1,0 +1,23 @@
+.conatiner {
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+
+.conatiner li {
+    color: white;
+    list-style-type: none;
+}
+
+.conatiner li h5 {
+    font-size: 20px;
+}
+
+
+.list3 li a {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
