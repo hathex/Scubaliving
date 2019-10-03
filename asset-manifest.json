@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/scubaliving/static/css/main.07271905.chunk.css",
+    "main.js": "/scubaliving/static/js/main.80cbc224.chunk.js",
+    "main.js.map": "/scubaliving/static/js/main.80cbc224.chunk.js.map",
+    "runtime-main.js": "/scubaliving/static/js/runtime-main.865e7a5f.js",
+    "runtime-main.js.map": "/scubaliving/static/js/runtime-main.865e7a5f.js.map",
+    "static/js/2.d6769305.chunk.js": "/scubaliving/static/js/2.d6769305.chunk.js",
+    "static/js/2.d6769305.chunk.js.map": "/scubaliving/static/js/2.d6769305.chunk.js.map",
+    "index.html": "/scubaliving/index.html",
+    "precache-manifest.f4816aef3f344a96406823df2247a130.js": "/scubaliving/precache-manifest.f4816aef3f344a96406823df2247a130.js",
+    "service-worker.js": "/scubaliving/service-worker.js",
+    "static/css/main.07271905.chunk.css.map": "/scubaliving/static/css/main.07271905.chunk.css.map",
+    "static/media/1200px-Logo_of_PADI.svg.png": "/scubaliving/static/media/1200px-Logo_of_PADI.svg.f9b9e60e.png",
+    "static/media/ScubaLiving_logo_small.svg": "/scubaliving/static/media/ScubaLiving_logo_small.e071d947.svg",
+    "static/media/Navbareren.css": "/scubaliving/static/media/scuba2.cd8b758b.jpg"
+  }
+}
