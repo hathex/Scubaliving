@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00f062dc6989a28cae22cd4a68f42bce",
+    "revision": "e1ebd4bc85311ea29a00e5c407a56a32",
     "url": "/Scubaliving/index.html"
   },
   {
-    "revision": "76006abd4ef1827655bf",
+    "revision": "76ac54ad1958ef1413db",
     "url": "/Scubaliving/static/css/main.4c145ba4.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Scubaliving/static/js/2.d6769305.chunk.js"
   },
   {
-    "revision": "76006abd4ef1827655bf",
-    "url": "/Scubaliving/static/js/main.31ed95c6.chunk.js"
+    "revision": "76ac54ad1958ef1413db",
+    "url": "/Scubaliving/static/js/main.37fa5ba7.chunk.js"
   },
   {
     "revision": "323abf719a6a5dfd7de7",

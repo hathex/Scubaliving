@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Scubaliving/precache-manifest.2b1aa0b3d03af5478b010ff36ce07dd7.js"
+  "/Scubaliving/precache-manifest.60954943d5f8ced0647eb78356486d8b.js"
 );
 
 self.addEventListener('message', (event) => {
